@@ -11,4 +11,4 @@ Para obter ajuda sobre como incorporar a extenssão ao Qlik Sense, consulte a [d
 
 | Printscreen |
 | --------|
-|<img src="Tabela_VD.png" width="900">|
+|<img src="Tabela_VD.png" width="1200">|
